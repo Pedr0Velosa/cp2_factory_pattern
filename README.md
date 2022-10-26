@@ -1,7 +1,7 @@
 # Checkpoint 2 - Factory Pattern
 
 ### Requisitos para rodar o projeto:
-1. Ter o node v18.4.0 ou superior.
+1. Ter o node v10+, recomendado 16+, realizado 18.4.0.
 2. Ter o python instalado.
 
 ## Para rodar:
